@@ -1,0 +1,11 @@
+C:\Users\MP\source\repos\fibbnacci\fibbnacci\bin\Release\fibbnacci.exe.config
+C:\Users\MP\source\repos\fibbnacci\fibbnacci\bin\Release\fibbnacci.exe.manifest
+C:\Users\MP\source\repos\fibbnacci\fibbnacci\bin\Release\fibbnacci.application
+C:\Users\MP\source\repos\fibbnacci\fibbnacci\bin\Release\fibbnacci.exe
+C:\Users\MP\source\repos\fibbnacci\fibbnacci\bin\Release\fibbnacci.pdb
+C:\Users\MP\source\repos\fibbnacci\fibbnacci\obj\Release\fibbnacci.csprojAssemblyReference.cache
+C:\Users\MP\source\repos\fibbnacci\fibbnacci\obj\Release\fibbnacci.csproj.CoreCompileInputs.cache
+C:\Users\MP\source\repos\fibbnacci\fibbnacci\obj\Release\fibbnacci.exe.manifest
+C:\Users\MP\source\repos\fibbnacci\fibbnacci\obj\Release\fibbnacci.application
+C:\Users\MP\source\repos\fibbnacci\fibbnacci\obj\Release\fibbnacci.exe
+C:\Users\MP\source\repos\fibbnacci\fibbnacci\obj\Release\fibbnacci.pdb
